@@ -1,1 +1,1 @@
-Number generator
+Number generator in js
